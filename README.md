@@ -1,16 +1,14 @@
 # food_app_ui
 
-A new Flutter project.
+ Flutter project.
 
-## Getting Started
+## Screen Shots
+  HomePage                 |   Slider        |  Food Options Page        |  Cart Page
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/elqady4/food_app/blob/main/screen%20shots/Screenshot_1692468833.png?raw=true)|![](https://github.com/elqady4/food_app/blob/main/screen%20shots/Screenshot_1692468839.png?raw=true)|![](https://github.com/elqady4/food_app/blob/main/screen%20shots/Screenshot_1692468847.png?raw=true)|![](https://github.com/elqady4/food_app/blob/main/screen%20shots/Screenshot_1692468849.png?raw=true)
 
-This project is a starting point for a Flutter application.
+## Video
 
-A few resources to get you started if this is your first Flutter project:
+ 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/elqady4/food_app/assets/21191386/e9b91e96-1f4d-480e-86e3-a0f1be168dbc
